@@ -92,6 +92,9 @@ Wechaty already held lots of talk and got a lot of blogs in the past 4 years, he
 - :tada: [Wechaty Contributor List: Thanks for their contribution!](https://github.com/wechaty/wechaty/wiki/Contributors)
 - :gift: [Juzibot Support Wechaty: Know everything about Wechaty](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
 
+
+https://img.shields.io/badge/fei_yu-du_men-blue
+
 ## :rocket: The World's Shortest ChatBot Code: 6 lines of JavaScript
 
 ```javascript
