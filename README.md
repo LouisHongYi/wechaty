@@ -72,6 +72,8 @@ See more at [Wiki:Voice Of Developer](https://github.com/Wechaty/wechaty/wiki/Vo
 ### Join Us
 
 [![Gitter](https://badges.gitter.im/wechaty/wechaty.svg)](https://gitter.im/wechaty/wechaty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+![Static Badge](https://img.shields.io/badge/fei_yu-du_men-blue)
+
 
 Wechaty is used in many ChatBot projects by thousands of developers. If you want to talk with other developers, just scan the following QR Code in WeChat with secret code _wechaty_, join our **Wechaty Developers' Home**.
 
@@ -93,7 +95,6 @@ Wechaty already held lots of talk and got a lot of blogs in the past 4 years, he
 - :gift: [Juzibot Support Wechaty: Know everything about Wechaty](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
 
 
-https://img.shields.io/badge/fei_yu-du_men-blue
 
 ## :rocket: The World's Shortest ChatBot Code: 6 lines of JavaScript
 
